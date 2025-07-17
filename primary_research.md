@@ -108,11 +108,3 @@ Traditional methods like preventive maintenance often replace healthy equipment,
 
 ---
 
-## 📬 Contact
-
-**Project Lead**: Akshay Rukade  
-📧 [Insert email or GitHub handle here]  
-🌐 [Optional portfolio or project site]
-
----
-
